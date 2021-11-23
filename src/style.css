@@ -39,7 +39,7 @@ h4 {
 .section-div h5 {
 }
 .section-div img {
-    width: 30%;
+    width: 40%;
     margin: 20px 0;
 }
 .section-content {
@@ -62,14 +62,14 @@ ul li {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
     gap: 50px;
     border-top: 1px solid #000;
     padding-left: 15px;
 }
 .section-text {
-    background: #dedde5;
     padding: 15px;
-    width: 40%;
+    width: 50%;
     word-break: keep-all;
     height: fit-content;
 }
