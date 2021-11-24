@@ -81,6 +81,8 @@ ul li {
     gap: 40px;
 }
 .video-div {
+    display: flex;
+    flex-direction: column;
     padding-left: 50px;
     margin-bottom: 50px;
 }
