@@ -89,10 +89,6 @@ ul li {
     margin: 0 10px 15px 0;
     display: inline-block;
 }
-.video-div video {
-    width: 500px;
-    display: block;
-}
 footer {
     width: 90%;
     height: 200px;
